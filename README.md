@@ -3,6 +3,7 @@
 ## Project info
 
 **URL**: https://lovable.dev/projects/e3d5a69f-de7b-4ad5-98b0-167ad816a6be
+**domain**:https://github.com/aimen056/trivora-vision-unfold.git
 
 ## How can I edit this code?
 
