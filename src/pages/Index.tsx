@@ -5,11 +5,8 @@ import Team from '@/components/Team';
 import Projects from '@/components/Projects';
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
-import { useScrollAnimations } from '@/hooks/useScrollAnimations';
 
 const Index = () => {
-  // Initialize smooth scrolling and enhanced animations
-  useScrollAnimations();
   return (
     <div className="min-h-screen">
       <Navigation />
