@@ -61,7 +61,26 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Trivora Custom Colors
+				neon: {
+					purple: 'hsl(var(--neon-purple))',
+					cyan: 'hsl(var(--neon-cyan))',
+					pink: 'hsl(var(--neon-pink))'
 				}
+			},
+			backgroundImage: {
+				'gradient-primary': 'var(--gradient-primary)',
+				'gradient-hero': 'var(--gradient-hero)',
+				'gradient-card': 'var(--gradient-card)'
+			},
+			boxShadow: {
+				'glow': 'var(--shadow-glow)',
+				'card': 'var(--shadow-card)',
+				'floating': 'var(--shadow-floating)'
+			},
+			fontFamily: {
+				sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif']
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
